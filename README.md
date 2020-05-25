@@ -74,5 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 The implementation of max pooling layer (maxpool.py) and fully connected layer (softmax.py) are inspired by scripts from [Victor Zhou](https://github.com/vzhou842/cnn-from-scratch).
+
 [MNIST](http://yann.lecun.com/exdb/mnist/)
+
 [Megnetic Tile Defect Dataset](https://github.com/abin24/Magnetic-tile-defect-datasets.)
