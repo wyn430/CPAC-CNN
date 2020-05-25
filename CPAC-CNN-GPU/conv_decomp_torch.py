@@ -1,5 +1,6 @@
 """
-This is the GPU implementation of CPAC-Conv layer using Pytorch. The input of this layer is image data with shape (C,H,W), the backward propagation is done automatically by Pytorch via autograd.
+This is the GPU implementation of CPAC-Conv layer using Pytorch. The input of this layer is image data with shape (C,H,W), 
+the backward propagation is done automatically by Pytorch via autograd.
 """
 import torch
 from torch import nn
