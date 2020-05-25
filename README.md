@@ -77,4 +77,4 @@ The implementation of max pooling layer (maxpool.py) and fully connected layer (
 
 [MNIST](http://yann.lecun.com/exdb/mnist/)
 
-[Megnetic Tile Defect Dataset](https://github.com/abin24/Magnetic-tile-defect-datasets.)
+[Magnetic Tile Defect Dataset](https://github.com/abin24/Magnetic-tile-defect-datasets.)
