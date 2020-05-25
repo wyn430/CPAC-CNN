@@ -1,6 +1,6 @@
 # CPAC-CNN
 
-Implementation of our recent paper, CPAC-CNN: CP-decomposition to Approximately CompressConvolutional Layers in Deep Learning
+Implementation of our recent paper, CPAC-CNN: CP-decomposition to Approximately Compress Convolutional Layers in Deep Learning
 
 ## Citation
 
