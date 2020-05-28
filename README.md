@@ -2,6 +2,9 @@
 
 Implementation of our recent paper, CPAC-CNN: CP-decomposition to Approximately Compress Convolutional Layers in Deep Learning
 
+## Abstract
+Feature extraction for tensor data serves as an important step in many tasks such as anomaly detection, process monitoring, image classification, and quality control. Although many methods have been proposed for tensor feature extraction, there are still two challenges that need to be addressed: 1) how to reduce the computation cost for high dimensional and large volume tensor data; 2) how to interpret the output features and evaluate their significance. Although the most recent methods in deep learning, such as Convolutional Neural Network (CNN), have shown outstanding performance in analyzing tensor data, their wide adoption is still hindered by model complexity and lack of interpretability. To fill this research gap, we propose to use CP-decomposition to approximately compress the convolutional layer (CPAC-Conv layer) in deep learning. The contributions of our work could be summarized into three aspects: 1) we adapt CP-decomposition to compress convolutional kernels and derive the expressions of both forward and backward propagations for our proposed CPAC-Conv layer; 2) compared with the original convolutional layer, the proposed CPAC-Conv layer can reduce the number of parameters without decaying prediction performance. It can combine with other layers to build novel Neural Networks; 3) the value of decomposed kernels indicates the significance of the corresponding feature map, which increases model interpretability and provides us insights to guide feature selection.
+
 ## Citation
 
 To be added
