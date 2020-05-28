@@ -80,4 +80,4 @@ The implementation of max pooling layer (maxpool.py) and fully connected layer (
 
 [MNIST](http://yann.lecun.com/exdb/mnist/)
 
-[Magnetic Tile Defect Dataset](https://github.com/abin24/Magnetic-tile-defect-datasets.)
+We used magetic tile defect dataset to test our proposed model, the original dataset can be found in [Magnetic Tile Defect Dataset](https://github.com/abin24/Magnetic-tile-defect-datasets.). Before feeding the data into our model, we resize all the images into 100 by 100, and apply data augmentation techniques (flip and rotate) to enrich samples in classes "crack" and "fray".
